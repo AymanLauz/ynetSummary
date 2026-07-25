@@ -9,7 +9,7 @@ An agent that scrapes the top headlines from [Ynet](https://www.ynet.co.il/), su
 3. Sends each article to a local LLM (served through LM Studio's OpenAI-compatible API) with a prompt to summarize it in 5 Hebrew bullet points.
 4. Renders all summaries into a single HTML report (`daily_briefing.html`) with headlines, summaries, and links back to the original articles.
 
-An example output is included: [`daily_briefing.html`](daily_briefing.html).
+An example output is included: [`daily_briefing.html`](daily_briefing.html) — [view it live](https://aymanlauz.github.io/ynetSummary/daily_briefing.html).
 
 ## Setup
 
