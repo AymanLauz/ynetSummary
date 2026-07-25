@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+newspaper3k
+openai
